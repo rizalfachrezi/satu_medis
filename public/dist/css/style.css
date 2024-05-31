@@ -1,0 +1,36 @@
+
+.blue-button {
+    background-color: rgb(44, 44, 255);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .red-button {
+    background-color: rgb(246, 74, 74);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .green-button {
+    background-color: rgb(70, 203, 70);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
